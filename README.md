@@ -1,4 +1,4 @@
-# XoR
+# XoR Cipher
 XOR (Gamma) decrypt \ encrypt
 -------------------------------------------
 
